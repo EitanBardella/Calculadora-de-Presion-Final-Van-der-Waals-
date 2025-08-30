@@ -1,0 +1,121 @@
+Gas,a (bar·L²/mol²),b (L/mol)
+Acetato de etilo,20.72,0.1412
+Acetileno,4.516,0.05136
+Acetona,16.02,0.1124
+Acetonitrilo,17.81,0.1168
+Ácido acético,17.82,0.1068
+Agua (vapor),5.536,0.03049
+Amoniaco,4.225,0.03707
+Anhídrido acético,20.16,0.1263
+Anilina,29.14,0.1486
+Argón,1.363,0.03219
+Benceno,18.82,0.1193
+Bromo,9.75,0.0591
+Bromobenceno,28.94,0.1539
+Bromuro de hidrógeno,4.510,0.04431
+Butano,13.89,0.1164
+1-Butanol,20.94,0.1326
+Butanona,19.97,0.1326
+Cianógeno,7.769,0.06901
+Cianuro de hidrógeno,11.29,0.0881
+Ciclohexano,21.92,0.1411
+Ciclopropano,8.34,0.0747
+Cloro,6.343,0.05622
+Clorobenceno,25.80,0.1454
+Cloroetano,11.66,0.08651
+Clorometano,7.570,0.06483
+Cloruro amónico,2.380,0.00734
+Cloruro de fosfonio,4.111,0.04545
+Cloruro de hidrógeno,3.716,0.04081
+Cloruro de titanio(IV),25.47,0.1423
+Decano,52.74,0.3043
+1-Decanol,59.51,0.3086
+Diborano,6.048,0.07437
+Dietileter,17.46,0.1333
+Dimetileter,8.180,0.07246
+Dióxido de azufre,6.865,0.0568
+Dióxido de carbono,3.658,0.04267
+Dióxido de nitrógeno,5.354,0.04424
+Disulfuro de carbono,11.25,0.07685
+Dodecano,69.38,0.3758
+1-Dodecanol,75.70,0.3750
+Etano,5.580,0.0651
+Etanol,12.56,0.08407
+Etanotiol,11.39,0.08098
+Etilamina,10.74,0.08409
+Etileno,4.612,0.0582
+Fenol,22.93,0.1177
+Flúor,1.171,0.02896
+Fluorobenceno,20.19,0.1286
+Fluorometano,4.692,0.05264
+Fluoruro de hidrógeno,9.565,0.0739
+Fosfina,4.692,0.05156
+Fósforo,53.6,0.157
+Freón,10.78,0.0998
+Furano,12.74,0.0926
+Germano,5.743,0.06555
+Helio,0.03457,0.0237
+Heptano,31.06,0.2049
+1-Heptanol,38.17,0.2150
+Hexafluoruro de azufre,7.857,0.0879
+Hexano,24.71,0.1735
+1-Hexanol,31.79,0.1856
+Hidrazina,8.46,0.0462
+Hidrógeno,0.2476,0.02661
+Isobutano,13.32,0.1164
+Kriptón,2.349,0.03978
+Mercurio,5.193,0.01057
+Metano,2.283,0.04278
+Metanol,9.649,0.06702
+Metilamina,7.106,0.0588
+Monóxido de carbono,1.472,0.03985
+Neón,0.8636,0.01709
+Neopentano,17.17,0.1411
+Nitrógeno,1.408,0.03913
+Octano,37.88,0.2374
+1-Octanol,44.71,0.2442
+Óxido nítrico,1.358,0.02789
+Óxido nitroso,3.852,0.04435
+Oxígeno,1.378,0.03183
+Ozono,3.570,0.0487
+Pentafluoruro de cloro,9.58,0.08204
+Pentano,19.26,0.1449
+1-Pentanol,25.88,0.1568
+Piridina,19.77,0.1137
+Pirrol,18.82,0.1049
+Propano,9.39,0.0905
+1-Propanol,16.26,0.1079
+2-Propanol,15.82,0.1109
+Propeno,8.442,0.0824
+Radón,6.601,0.06239
+Seleniuro de hidrógeno,5.338,0.04637
+Silano,4.38,0.0579
+Sulfuro de dietilo,19.00,0.1214
+Sulfuro de dimetilo,13.04,0.09213
+Sulfuro de hidrógeno,4.490,0.04287
+Tetraclorometano,20.01,0.1281
+Tetraclorosilano,20.96,0.1470
+Tetracloruro de carbono,19.7483,0.1281
+Tetracloruro de estaño,27.27,0.1642
+Tetracloruro de germanio,22.90,0.1485
+Tetracloruro de silicio,20.96,0.1470
+Tetrafluoroetileno,6.954,0.0809
+Tetrafluorohidrazina,7.426,0.08564
+Tetrafluorometano,4.040,0.0633
+Tetrafluorosilano,5.259,0.0724
+Tetrafluoruro de silicio,4.251,0.05571
+Tetrahidrofurano,16.39,0.1082
+Tiofeno,17.21,0.1058
+Tolueno,24.38,0.1463
+1-1-1-Tricloroetano,20.15,0.1317
+Triclorometano,15.34,0.1019
+Tricloruro de aluminio,42.63,0.2450
+Tricloruro de boro,15.60,0.1222
+Trifluorometano,5.378,0.0640
+Trifluoruro de boro,3.98,0.05443
+Trifluoruro de fósforo,4.954,0.06510
+Trifluoruro de nitrógeno,3.58,0.05453
+Trimetilamina,13.37,0.1101
+Xenón,4.250,0.05105
+Yodobenceno,33.52,0.1656
+Yoduro de hidrógeno,6.309,0.0530
